@@ -1,0 +1,13 @@
+d:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.exe.config
+D:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.exe
+D:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.pdb
+D:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.exe
+D:\visual studio 2015\Projects\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.pdb
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.exe.config
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\bin\Debug\ZP3CS_cv03.pdb
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.csprojAssemblyReference.cache
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.csproj.CoreCompileInputs.cache
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv03\ZP3CS_cv03\obj\Debug\ZP3CS_cv03.pdb
