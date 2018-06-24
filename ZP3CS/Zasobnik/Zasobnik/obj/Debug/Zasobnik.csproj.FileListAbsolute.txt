@@ -1,0 +1,12 @@
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\bin\Debug\Zasobnik.exe.config
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\bin\Debug\Zasobnik.exe
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\bin\Debug\Zasobnik.pdb
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\obj\Debug\Zasobnik.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\obj\Debug\Zasobnik.exe
+C:\Users\micha\Desktop\Minna\school\3semestr\C#\Zasobnik\Zasobnik\obj\Debug\Zasobnik.pdb
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\bin\Debug\Zasobnik.exe.config
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\bin\Debug\Zasobnik.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\bin\Debug\Zasobnik.pdb
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\obj\Debug\Zasobnik.csproj.CoreCompileInputs.cache
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\obj\Debug\Zasobnik.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\Zasobnik\Zasobnik\obj\Debug\Zasobnik.pdb
