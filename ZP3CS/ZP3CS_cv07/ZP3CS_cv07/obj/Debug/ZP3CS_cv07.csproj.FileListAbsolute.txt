@@ -1,0 +1,6 @@
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\bin\Debug\ZP3CS_cv07.exe.config
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\bin\Debug\ZP3CS_cv07.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\bin\Debug\ZP3CS_cv07.pdb
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\obj\Debug\ZP3CS_cv07.csproj.CoreCompileInputs.cache
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\obj\Debug\ZP3CS_cv07.exe
+C:\Users\HONZA\Documents\c# odevzdane ukoly-20180624T080203Z-001\c# odevzdane ukoly\zp3cs\ZP3CS_cv07\ZP3CS_cv07\obj\Debug\ZP3CS_cv07.pdb
