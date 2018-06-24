@@ -24,7 +24,6 @@ namespace ZP3CS_cv03
                 p = p.next;
             }
 
-
             while (!f.JePrazdna())
             {
                 Console.WriteLine(f.Odeber());
@@ -33,9 +32,6 @@ namespace ZP3CS_cv03
             //f.Odeber();
 
             Console.WriteLine("Je prazdna: " + f.JePrazdna());
-
         }
-
-
     }
 }
