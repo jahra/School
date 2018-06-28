@@ -1,0 +1,15 @@
+﻿<Window x:Class="ZP4CS_07.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZP4CS_07"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="MyGrid" HorizontalAlignment="Left" Height="340" VerticalAlignment="Top" Width="515" Margin="0,0,0,-21">
+        <Menu x:Name="menu" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <MenuItem x:Name="LoadXML_butt" Header="Load XML" Click="LoadXML_butt_Click"/>
+            <MenuItem x:Name="ExportPNG_butt" Header="Export to PNG" Click="ExportPNG_butt_Click"/>
+        </Menu>
+    </Grid>
+</Window>
